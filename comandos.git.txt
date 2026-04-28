@@ -1,0 +1,19 @@
+git init
+(Sirve para el repositorio local)
+
+git config --local user.name "Tina"
+(configurar al nombre del usuario localmente)
+
+git config --local user.email "valentinarciniegasdiaz@gmail.com"
+(configura correo)
+
+git add .
+(añade todos los archivos al repositorio)
+
+git branch -M main
+
+git commit -m "version de subida"
+
+git push -u origin main
+
+git status
