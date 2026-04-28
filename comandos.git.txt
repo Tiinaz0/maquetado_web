@@ -17,3 +17,5 @@ git commit -m "version de subida"
 git push -u origin main
 
 git status
+
+git remote add origin https://github.com/Tiinaz0/maquetado_web.git
